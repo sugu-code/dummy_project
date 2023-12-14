@@ -1,5 +1,0 @@
-tiktoken
-pinecone-client
-openai==0.28
-langchain
-json
